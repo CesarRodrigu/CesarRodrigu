@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## César Rodríguez
+🌱 I’m currently learning in Burgos university
 <!--
 **CesarRodrigu/CesarRodrigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
